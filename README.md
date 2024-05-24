@@ -1,46 +1,68 @@
-# Getting Started with Create React App
+# Projeto React com Typescript do zero com [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## Como visualizar este projeto:
+<p> Apos fazer o dawload/descompactando arquivo zip/abra o projeto no VCS:</p>
+ No terminal do seu VCS digite o comando abaixo:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Em seguida devera aparecer em seu navegador a pagina do site com o endereço: [http://localhost:3000](http://localhost:3000).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+<h1>Sobre o Projeto:<p> Criando um Site EstudosDeveOps</p></h1>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Conhecimentos posto em pratica.
+- Projeto React com Typescript do zero com Create React App feito atraveis do curso Alura
+- Entendendo o conceitos de React como Componentização, Props e State
+- Evite sobreposições de CSS com CSS Modules
+- Desestruturando strings
+- Entendendo como funciona o ciclo de vida de um componente
+- Refatorando um class component para um function component
+- Aprenda sobre os hooks useState e useEffect e entenda como eles eram usados nos class components
+- Deixando seu código mais limpo e documentado com a forma mais atual de se escrever React
+- Desenvolvendo seu código com conceitos de boas práticas como DRY (Don't repeat yourself) e SRP (Single Responsibility Principle)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##  Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/vscode-00BFFF?style=for-the-badge&logo=visualstudio&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-008B8B?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-88bcd1?style=for-the-badge&logo=typescript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-FF3300?style=for-the-badge&logo=Git&logoColor=black">
+  <img src="https://img.shields.io/badge/Github-808080?style=for-the-badge&logo=Github&logoColor=black">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  
+</div>
 
-### `npm run eject`
+## Fases do Desenvolvimento:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+</div>
+<p align="right , float: right">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Back-End%20Finalizado&color=GREEN&style=for-the-badge"/>
+</p>
+<p align="right , float: right">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Front-End%20Finalizado&color=F7DF1E&style=for-the-badge"/>
+</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Contatos:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<div>
+<a href = "leosantosap@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leobaldo-apolinario" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Learn More
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Autor de projeto
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Leo Apolinario
+
+
+
+
+
+
